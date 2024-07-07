@@ -17,7 +17,7 @@ Marking Purchased: After you buy something, click "Purchase" next to the item. I
 Clearing the List: If you want to erase everything and start over, click "Clear All".
 
 Code Stuff:
-JavaScript Magic: This webpage uses JavaScript to keep track of what I want to buy. It's like magic! ✨
+JavaScript Magic: This webpage uses JavaScript to keep track of what I want to buy.
 Functions: There are special functions that make everything work:
 addItem(): Adds what I type to my list.
 togglePurchased(): Changes an item from "Purchase" to "Purchased" when I buy it.
