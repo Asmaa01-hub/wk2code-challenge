@@ -33,6 +33,10 @@ Interactive Shopping List is a web application that allows users to manage their
 4. Click the "Clear List" button to remove all items from the list.
 5. The list is saved in local storage, so it will persist even after the page is reloaded.
 
+you can use this link and open the website to access the code.
+```
+ https://asmaa01-hub.github.io/wk2code-challenge/
+```
 
 ## Contact Details
 https://github.com/Asmaa01-hub/wk2code-challenge.git
